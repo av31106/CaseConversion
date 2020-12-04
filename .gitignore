@@ -1,0 +1,15 @@
+#-----------------
+# Build Artifacts
+#-----------------
+artifacts/
+bin/
+obj/
+
+#-----------------
+# Visual Studio
+#-----------------
+.vs/
+.vscode/
+.dotnet/
+.tools/
+.packages/
