@@ -1,9 +1,9 @@
 # CaseConversion
 snake case to pascal and camel case conversion
   
-  private static string CamelCase(string inputString)
+        private static string CamelCase(string inputString)
         {
-            //Checking null and empty string.
+            /*Checking null and empty string.*/
             if (string.IsNullOrEmpty(inputString))
                 return inputString;
 
